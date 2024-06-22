@@ -3,4 +3,7 @@ uvicorn
 slowapi
 uvicorn
 mysqlclient
-passlib
+passl
+
+----------------------
+Modeified requirements.txt to test Project-Management R2
